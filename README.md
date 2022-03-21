@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
+# Math Magiciens
 > Description the project.
-
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages html, css, javascript
+- Frameworks react, bootstrap 
+- Technologies used Visual Studio Code 
 
 ## Live Demo (if available)
 
@@ -19,6 +18,10 @@
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
+Clone this repository then run these commends on your terminal.
+ npm install
+ npm run start # this will make webpack watching for your changes in code
+ npm run test #This is to run the tests on the count method
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
@@ -29,7 +32,8 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ### Install
-
+node js
+npm
 ### Usage
 
 ### Run tests
@@ -42,15 +46,11 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/brahimdidi)
+- Twitter: [@twitterhandle](https://twitter.com/brahimdidi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 
 
 ## 🤝 Contributing
 
