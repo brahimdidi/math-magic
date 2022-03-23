@@ -4,12 +4,15 @@ import Calcul from './components/calculator';
 import './components/calculator.css';
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
     return (
       <div className="Container">
-        <Calcul>
-          <input type="number" className="input" placeholder="0" />
-        </Calcul>
+        <Calcul />
       </div>
     );
   }
