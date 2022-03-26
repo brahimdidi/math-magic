@@ -14,18 +14,12 @@ button {
 }
 
 .input {
-  background-color: grey;
+  background-color: #858693;
   display: flex;
   text-align: right;
-  padding-inline-end: 15px;
-  -webkit-appearance: none;
-  -moz-appearance: textfield;
-}
-
-.input::placeholder {
-  font-size: 30px;
-  color: rgb(255, 255, 255);
-  font-weight: bold;
+  justify-content: right;
+  font-size: 27px;
+  padding: 20px;
 }
 
 .calculator {
@@ -35,7 +29,7 @@ button {
   margin: 0 auto;
   grid-template-rows: repeat(5, 1fr);
   padding: unset;
-  background-color: rgb(180, 178, 178);
+  background-color: #d8d8d8;
 }
 
 ul {
@@ -51,7 +45,7 @@ ul {
 ul button {
   width: 25%;
   height: 100%;
-  background-color: rgb(204, 204, 204);
+  background-color: #e0e0e0;
   cursor: pointer;
 }
 
@@ -60,7 +54,7 @@ ul button {
 }
 
 .bg-orange {
-  background-color: orange;
+  background-color: #ee903d;
 }
 
 .button-x {
