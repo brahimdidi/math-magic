@@ -48,6 +48,7 @@ ul button {
   background-color: #e0e0e0;
   cursor: pointer;
 }
+
 ul button:hover {
   opacity: 0.5;
   font-weight: bolder;
@@ -66,10 +67,9 @@ ul button:hover {
   text-transform: lowercase;
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width: 600px) {
   .calculator {
     width: 98%;
     height: auto;
   }
-  
 }
