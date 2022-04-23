@@ -1,10 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# NetFetch
+# Math magic
 
-> NetFetch is website for the latest and favorite TV shows, shipped with a really cool infinite scroll feature!. You can view the details of the show, "like" a show, and even comment. You can also see other comments which might give you a general idea about what people think about the show.
-> It is built with HTML, CSS and JavaScript with data from the TvMaze API(tv show data) and the Involvement API(likes and comments)
+> Math magic " is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
+Make simple calculations.
+Read a random math-related quote.
+By building this application, you will learn how to use React.
 ## Video Presentation 
 
 Not available yet
@@ -72,7 +74,7 @@ $ open dist/index.html
 
 👤 **Brahim**
 
-- GitHub: [@githubhandle](https://github.com/brahimdidi)
+- GitHub: [@brahimdidi](https://github.com/brahimdidi)
 
 
 Contributions, issues, and feature requests are welcome!
