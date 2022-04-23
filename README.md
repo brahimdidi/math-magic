@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magic
+# NetFetch
 
 > Math magic " is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
