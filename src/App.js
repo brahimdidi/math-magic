@@ -1,21 +1,23 @@
 import './App.css';
-import React, { Component } from 'react';
-import Calcul from './components/calculator';
-import './components/calculator.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Calcul from './components/Calculator/calculator';
+import './components/Calculator/calculator.css';
+import Nav from './components/Navbar/Navbar';
+import Quote from './components/Quote/Quote';
+import Home from './components/Home/Home';
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
-
-  render() {
-    return (
-      <div className="Container">
-        <Calcul />
-      </div>
-    );
-  }
-}
+const App = () => (
+  <Router>
+    <Nav />
+    <main>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<Calcul />} />
+        <Route path="/quote" element={<Quote />} />
+      </Routes>
+    </main>
+  </Router>
+);
 
 export default App;
