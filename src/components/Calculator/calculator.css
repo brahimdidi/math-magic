@@ -55,6 +55,12 @@ ul button {
   cursor: pointer;
 }
 
+ul button:hover {
+  opacity: 0.5;
+  font-weight: bolder;
+  font-size: larger;
+}
+
 .button-0 {
   width: 50%;
 }
@@ -65,4 +71,11 @@ ul button {
 
 .button-x {
   text-transform: lowercase;
+}
+
+@media screen and (max-width: 600px) {
+  .calculator {
+    width: 98%;
+    height: auto;
+  }
 }
