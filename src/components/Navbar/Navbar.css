@@ -4,7 +4,7 @@
   padding: 6px;
   align-items: center;
   margin-top: 0;
-  background-color: rgb(189, 189, 189);
+  background-color: rgb(114, 112, 112);
 }
 
 .nav-section h1 {
@@ -15,6 +15,9 @@
 
 nav {
   width: 20%;
+  background-color: rgb(121, 121, 121);
+  border: 1px solid rgb(199, 194, 194);
+  border-radius: 7px;
 }
 
 .nav-ul {
@@ -26,6 +29,12 @@ nav {
 .nav-ul li {
   border-right: 2px solid black;
   padding-right: 13px;
+}
+a {
+  color: #000;
+}
+a:hover {
+  color: whitesmoke;
 }
 
 .quote-li {

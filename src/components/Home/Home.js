@@ -3,7 +3,7 @@ import './Home.css';
 
 const Home = () => (
   <section className="home-section">
-    <h2>Welcome to our page!</h2>
+    <h2 className="home-title text-success">Welcome to our page!</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
       repellendus tempora fuga reprehenderit nostrum, nemo autem animi sint
