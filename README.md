@@ -11,9 +11,9 @@ By building this application, you will learn how to use React.
 
 Not available yet
 
-## Live Demo
+## Live Demo with netifly
 
-[Website Link](https://brahimdidi.github.io/math-magic/)
+[Website Link]https://animated-souffle-f25add.netlify.app//)
 
 ## Mini Demo
 not available yet
