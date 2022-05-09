@@ -2,7 +2,7 @@
 
 # Math magic
 
-> Math magic " is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+> Math magic is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 Make simple calculations.
 Read a random math-related quote.
@@ -58,9 +58,7 @@ cd math-magic
 #### Run project
 
 ```bash
- npm install
- npm run start # this will make webpack watching for your changes in code
- npm run test #This is to run the tests on the count method
+ npm start
 ```
 
 #### Open page in browser
